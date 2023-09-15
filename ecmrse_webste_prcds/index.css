@@ -1,0 +1,76 @@
+.bg-container {
+    background-color: #ffffff;
+}
+
+.card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    border-radius: 10px;
+    background-size: cover;
+    text-align: left;
+}
+
+.main-heading {
+    font-size: 35px;
+    font-weight: bold;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.heading {
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.paragraph {
+    font-size: 15px;
+    font-weight: 300;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.paragraph1 {
+    font-size: 15px;
+    font-weight: 300;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.custom-button {
+    color: #ff9f00;
+    background-color: #ffffff;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.card-1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    border-radius: 10px;
+    background-size: cover;
+    text-align: left;
+}
+
+.link {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.section-model-title {
+    font-size: 26px;
+    font-weight: 300;
+    color: #323f4b;
+    font-family: "Roboto";
+}

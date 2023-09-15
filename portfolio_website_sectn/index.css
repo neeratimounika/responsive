@@ -1,0 +1,63 @@
+.bg-container {
+    background-color: #323f4b;
+}
+
+.heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.image {
+    background-size: cover;
+}
+
+.title {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.sub-title {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 5px;
+    padding: 10px;
+}
+
+.sub-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 400;
+    margin-top: 5px;
+    padding: 10px;
+}
+
+.description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 6px;
+    padding: 10px;
+
+}
+
+.link {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+    padding: 10px;
+}
+
+.card {
+    border-radius: 6px;
+    background-color: #3e4c59;
+}

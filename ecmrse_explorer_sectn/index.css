@@ -1,0 +1,49 @@
+.top-section {
+    background-color: #f5f7fa;
+}
+
+.top-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight: bold;
+}
+
+.img {
+    border-radius: 16px;
+    height: 130px;
+    width: 130px;
+}
+
+.card-title {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.title {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px;
+    text-align: center;
+}
+
+.link {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.item-card {
+    border-radius: 16px;
+    background-color: #ffffff;
+
+}
+
+.image {
+    border-radius: 16px;
+}

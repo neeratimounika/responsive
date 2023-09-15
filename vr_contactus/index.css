@@ -1,0 +1,27 @@
+.bg-container {
+    background-color: #222b36;
+}
+
+.heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.img {
+    width: 300px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.button {
+    color: white;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-color: #ffffff;
+    border-width: 2px;
+    border-radius: 10px;
+
+}

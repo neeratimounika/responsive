@@ -1,0 +1,42 @@
+.bg-container {
+    background-color: #1f2933;
+}
+
+.main-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.main-description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 45px;
+}
+
+.card {
+    text-align: center;
+    background-color: #323f4b;
+}
+
+.card-image {
+    width: 0px;
+    height: 100px;
+    border-radius: 40px;
+}
+
+.sub-title {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.sub-description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 23px;
+    padding-top: 10px;
+    font-weight: 300;
+}

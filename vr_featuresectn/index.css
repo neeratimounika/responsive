@@ -1,0 +1,38 @@
+.bg-container {
+    background-color: white;
+}
+
+.main-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.image {
+    border-radius: 16px;
+    height: 60px;
+    width: 60px;
+}
+
+.card-title {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.paragraph {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 21px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.natural {
+    color: #1f2933;
+    font-style: italic;
+    font-weight: 800;
+}

@@ -1,0 +1,52 @@
+.bg-container {
+    background-color: #ffffff;
+}
+
+.heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.image {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.title {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 600;
+
+    padding: 10px;
+}
+
+.description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+
+    padding: 10px;
+}
+
+.link {
+    color: #1754a1;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px;
+    padding-bottom: 10px;
+}
+
+.custom-button {
+    color: white;
+    background-color: #1754a1;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 5px;
+    margin-right: 10px;
+}

@@ -1,0 +1,34 @@
+.color {
+    color: white;
+}
+
+#navItem1 {
+    color: white;
+}
+
+#navItem2 {
+    color: white;
+}
+
+#navItem3 {
+    color: white;
+}
+
+#navItem4 {
+    color: white;
+}
+
+#navItem5 {
+    color: white;
+}
+
+.letter {
+    border-style: solid;
+    color: white;
+    border-width: 2px;
+    border-color: white;
+    border-radius: 5px;
+    height: 40px;
+    width: 50px;
+
+}
